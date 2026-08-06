@@ -42,9 +42,9 @@
 
 ---
 
-### Personal Development
+## Personal Development
 
-#### myhomepage:からだ散歩 - Pilates Reservation System
+### myhomepage:からだ散歩 - Pilates Reservation System
 自身のピラティス教室向けの予約・顧客管理システム
 
 **主な機能**
